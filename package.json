@@ -1,0 +1,24 @@
+{
+  "name": "tardis-game",
+  "version": "1.0.0",
+  "description": "Minha primeira tentativa de jogo on-line (também assumo o sinônimo de maçaroca on-line), utilizando JS, Node.js e Socket.io.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipstein/Primeiro-Jogo-Online.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felipstein/Primeiro-Jogo-Online/issues"
+  },
+  "homepage": "https://github.com/Felipstein/Primeiro-Jogo-Online#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.4.1"
+  }
+}
